@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\TouchInput.cs">
+    <Files>
+      <File FileName="Roll-a-Ball.sln" Line="40" Column="1" />
+      <File FileName="Assets\TouchInput.cs" Line="69" Column="8" />
+      <File FileName="Assets\Scripts\CueBallController.cs" Line="7" Column="59" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
